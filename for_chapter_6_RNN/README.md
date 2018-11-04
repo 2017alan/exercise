@@ -29,5 +29,5 @@
 
 ​    Xingxing Zhang and Mirella Lapata. 2014. Chinese poetry generation with recurrent neural networks. In Proceedings of the 2014 Conference on EMNLP. Association for Computational Linguistics, October
 
-并且参考了这篇博客  https://blog.csdn.net/Irving_zhang/article/details/76664998
+
 
